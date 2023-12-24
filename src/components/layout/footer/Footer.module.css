@@ -1,0 +1,26 @@
+.footer{
+    background-color: var(--smooth-black-color);
+    color: var(--white-color);
+    padding: 3em;
+    text-align: center;
+}
+
+.footer ul{
+    display: flex;
+    justify-content: center
+}
+.social_list{
+    list-style: none;
+    margin: 0 10px;
+    transition: color 200ms;
+}
+.facebook_logo:hover{
+    color: var(--facebook-blue-color);
+}
+.whatsapp_logo:hover{
+    color:var(--whatsapp-green-color);
+    
+}
+.github_logo:hover{
+    color: var(--github-black-color);
+}

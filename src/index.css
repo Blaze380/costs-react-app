@@ -5,10 +5,13 @@
   font-family: 'Open Sans','sans-serif';
 }
 :root{
---orange-color:#FFBB33;
---white-background-color:#efefef;
---white-color:#FFF;
---smooth-black-color:#222;
+  --orange-color:#FFBB33;
+  --white-background-color:#efefef;
+  --white-color:#FFF;
+  --smooth-black-color:#222;
+  --facebook-blue-color:#316FF6;
+  --whatsapp-green-color:#25d366;
+  --github-black-color:#111;
 }
 html,body,#root{
   height: 100%;
