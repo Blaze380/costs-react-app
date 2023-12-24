@@ -1,0 +1,41 @@
+@keyframes increase_borderbotton_opacity {
+    0% {
+        border-bottom-color: transparent;
+    }
+    100% {
+        border-bottom-color:var(--orange-color) ;
+    }
+}
+@keyframes decrease_borderbottom_opacity {
+    100% {
+        border-bottom-color:var(--orange-color) ;
+    }
+    0% {
+        border-bottom-color: transparent;
+    }
+}
+@keyframes counter_clock_spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes decrease_opacity {
+    0% {
+        opacity: 100%;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes increase_opacity {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+}

@@ -5,9 +5,12 @@
   font-family: 'Open Sans','sans-serif';
 }
 :root{
-
+--orange-color:#FFBB33;
+--white-background-color:#efefef;
+--white-color:#FFF;
+--smooth-black-color:#222;
 }
 html,body,#root{
   height: 100%;
-  background-color: #efefef;
+  background-color:var(--white-background-color) ;
 }
