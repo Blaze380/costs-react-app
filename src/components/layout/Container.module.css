@@ -3,7 +3,7 @@
     justify-content: space-between;
     margin: 0 auto;
     flex-wrap: wrap;
-    border: 5px solid red;
+    /* border: 5px solid red; */
 }
 .min_height{
     min-height: 75%;

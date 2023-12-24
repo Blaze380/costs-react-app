@@ -9,7 +9,7 @@
     background-color:var(--smooth-black-color);
     justify-content: space-between;
     align-items: center;
-    border: 1px solid wheat;
+    /* border: 1px solid wheat; */
     height: 60px;
     
 }
