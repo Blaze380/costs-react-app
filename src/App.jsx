@@ -1,5 +1,4 @@
-import Routes from "./components/routes/Routes";
-
+import Routes from "./layout/routes/Routes";
 
 function App() {
 

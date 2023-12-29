@@ -1,0 +1,23 @@
+.select_container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.select_container  select {
+    appearance: none;
+    outline: none;
+    background-image: url(/src/images/arrows/arrow-down-black.svg);
+    background-position: left 24em top 60%;
+    background-repeat: no-repeat;
+    border: none;
+    padding: 0.7em;
+    transition: background-image .4s;
+}
+.select_container select:focus{
+    background-image: url(/src/images/arrows/arrow-down-orange.svg);
+}
+
+.select_container option{
+    padding: 0.7em;
+}

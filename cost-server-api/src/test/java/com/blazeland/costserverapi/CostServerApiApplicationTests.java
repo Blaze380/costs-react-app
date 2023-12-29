@@ -1,0 +1,13 @@
+package com.blazeland.costserverapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CostServerApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

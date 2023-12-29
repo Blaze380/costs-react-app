@@ -1,0 +1,13 @@
+.link {
+    text-decoration: none;
+    background-color: var(--smooth-black-color);
+    color: var(--white-color);
+    padding: 0.5em;
+    transition: color,background-color .5s;
+}
+
+.link:hover{
+    background-color: var(--orange-color);
+    color: var(--smooth-black-color);
+}
+

@@ -1,4 +1,4 @@
-import '../src/components/layout/animations/animations.css';
+import '../src/layout/components/animations/animations.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App.jsx';
