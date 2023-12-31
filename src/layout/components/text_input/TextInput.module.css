@@ -8,6 +8,9 @@
     border: none;
     padding: 0.7em;
 }
+.text_input_container input:focus{
+    outline: 1px solid var(--orange-color);
+}
 .text_input_container input::placeholder{
     color: var(--gray-color);
 }
